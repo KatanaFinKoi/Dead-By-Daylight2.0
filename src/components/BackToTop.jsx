@@ -1,11 +1,10 @@
 // src/components/BackToTop/BackToTop.js
 import React, { useState, useEffect } from 'react';
-import './BackToTop.css';
+import '../index.css';
 
 const BackToTop = () => {
   const [isVisible, setIsVisible] = useState(false);
 
-  // Show button when page is scrolled down
   useEffect(() => {
     const toggleVisibility = () => {
       if (window.pageYOffset > 300) {
@@ -30,7 +29,11 @@ const BackToTop = () => {
   return (
     <>
       {isVisible && (
-        <button onClick={scrollToTop} id="back-to-top" title="Back to Top">
+        <button 
+          id="back-to-top" 
+          onClick={scrollToTop}
+          aria-label="Back to top"
+        >
           ↑
         </button>
       )}

@@ -1,7 +1,8 @@
 // src/pages/KillerBios.js
 import React from 'react';
 import Bio from '../components/BioLogic';
-import BackToTop from '../components/BackToTop/BackToTop';
+import BackToTop from '../components/BackToTop.jsx';
+import Header from '../components/Header.jsx';
 
 const KillerBios = () => {
   // You could store this data in a separate file or fetch from an API
@@ -94,7 +95,8 @@ const KillerBios = () => {
   ];
 
   return (
-    <main>
+    <div>
+      <Header />
       <section id="killer-bios">
         <h2><strong>The Killers</strong></h2>
         {killers.map(killer => (
@@ -107,7 +109,7 @@ const KillerBios = () => {
         ))}
       </section>
       <BackToTop />
-    </main>
+    </div>
   );
 };
 
