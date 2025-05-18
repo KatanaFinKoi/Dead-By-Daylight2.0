@@ -234,7 +234,7 @@ ul li {
 }
 
 .bios h3{
-  margin: 5px 350px 1000px 350px;
+  margin: 5px 350px 500px 350px;
   color: rgba(146, 162, 165, 1);
   border: 5px;
   box-shadow: 0 0 30px 15px rgba(146, 162, 165, 0.9);
@@ -308,7 +308,7 @@ ul li {
 #huntress-bio {
   background-image: url(killer-gif/huntress.gif);
   background-size: cover;
-  background-position: 55% 50%;
+  background-position: 55% 20%;
   background-attachment: local;
   box-sizing: border-box;
   transition: all 0.3s ease;
