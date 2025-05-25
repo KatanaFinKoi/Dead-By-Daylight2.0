@@ -12,7 +12,7 @@ import './index.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Dead-By-Daylight2.0">
       <div className="App">
         {/* <Header /> */}
         <Routes>
