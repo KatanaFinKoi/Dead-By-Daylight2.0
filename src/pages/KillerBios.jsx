@@ -1,6 +1,6 @@
 // src/pages/KillerBios.js
 import React from 'react';
-import Bio from '../components/BioLogic';
+import Bio from '../components/BioLogic.jsx';
 import BackToTop from '../components/BackToTop.jsx';
 import Header from '../components/Header.jsx';
 
