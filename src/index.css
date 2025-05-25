@@ -11,7 +11,7 @@ body{
   min-height: 100vh;
   justify-content: flex-start; */
   background-color: #2b3848;
-  background-image: url(other-images/fog-background.jpeg);
+  background-image: url(./assets/other-images/fog-background.jpeg);
   background-size: cover;
   background-position:left;
   background-repeat: no-repeat;
@@ -37,7 +37,7 @@ h2 {
   border: 5px solid;
   border-color:black;
   border-radius: 10px;
-  background-image: url(other-images/fog-gif.gif);
+  background-image: url(./assets/other-images/fog-gif.gif);
   background-size: cover;
   background-position: center;
   background-attachment: local;
@@ -98,7 +98,7 @@ p {
   border-radius: 10px;
   border-color: rgba(15, 16, 20, 1);
   box-shadow: 0 0 50px 8px rgba(222, 36, 28, 1);
-  background-image: url(other-images/dbd-opening-gif.gif);
+  background-image: url(./assets/other-images/dbd-opening-gif.gif);
   background-size: cover;
   background-position: 50% 100%;
   background-attachment: local;
@@ -196,7 +196,7 @@ ul {
 
   /* Style the list items */
 ul li {
-  background-image: url(other-images/IconCurrency_iridescentShards.webp); 
+  background-image: url(./assets/other-images/IconCurrency_iridescentShards.webp); 
   background-size: 20px 20px; 
   background-repeat: no-repeat;
   position: relative;
@@ -243,7 +243,7 @@ ul li {
 }
 
 #trapper-bio {
-  background-image: url(killer-gif/trapper.webp);
+  background-image: url(./assets/killer-gif/trapper.webp);
   background-size: cover;
   background-position: center;
   background-attachment: local;
@@ -252,7 +252,7 @@ ul li {
 }
 
 #wraith-bio {
-  background-image: url(killer-gif/wraith.gif);
+  background-image: url(./assets/killer-gif/wraith.gif);
   background-size: cover;
   background-position: 45% 50%;
   background-attachment: local;
@@ -261,7 +261,7 @@ ul li {
 }
 
 #hillbilly-bio {
-  background-image: url(killer-gif/hillbilly.gif);
+  background-image: url(./assets/killer-gif/hillbilly.gif);
   background-size: cover;
   background-position: center;
   background-attachment: local;
@@ -270,7 +270,7 @@ ul li {
 }
 
 #nurse-bio {
-  background-image: url(killer-gif/nurse.gif);
+  background-image: url(./assets/killer-gif/nurse.gif);
   background-size: cover;
   background-position: center;
   background-attachment: local;
@@ -279,7 +279,7 @@ ul li {
 }
 
 #shape-bio {
-  background-image: url(killer-gif/shape.gif);
+  background-image: url(./assets/killer-gif/shape.gif);
   background-size: cover;
   background-position: center;
   background-attachment: local;
@@ -288,7 +288,7 @@ ul li {
 }
 
 #hag-bio {
-  background-image: url(killer-gif/hag.gif);
+  background-image: url(./assets/killer-gif/hag.gif);
   background-size: cover;
   background-position: 70% 50%;
   background-attachment: local;
@@ -297,7 +297,7 @@ ul li {
 }
 
 #doctor-bio {
-  background-image: url(killer-gif/doctor.webp);
+  background-image: url(./assets/killer-gif/doctor.webp);
   background-size: cover;
   background-position: 80% 50%;
   background-attachment: local;
@@ -306,7 +306,7 @@ ul li {
 }
 
 #huntress-bio {
-  background-image: url(killer-gif/huntress.gif);
+  background-image: url(./assets/killer-gif/huntress.gif);
   background-size: cover;
   background-position: 55% 20%;
   background-attachment: local;
@@ -316,7 +316,7 @@ ul li {
 
 
 #dwight-bio {
-  background-image: url(survivor-gif/dwight.gif);
+  background-image: url(./assets/survivor-gif/dwight.gif);
   background-size: cover;
   background-position: 30% 50%;
   background-attachment: local;
@@ -325,7 +325,7 @@ ul li {
 }
 
 #meg-bio {
-  background-image: url(survivor-gif/meg.gif);
+  background-image: url(./assets/survivor-gif/meg.gif);
   background-size: cover;
   background-position: right;
   background-attachment: local;
@@ -334,7 +334,7 @@ ul li {
 }
 
 #claudette-bio {
-  background-image: url(survivor-gif/claudette.gif);
+  background-image: url(./assets/survivor-gif/claudette.gif);
   background-size: cover;
   background-position: 20% 50%;
   background-attachment: local;
@@ -343,7 +343,7 @@ ul li {
 }
 
 #jake-bio {
-  background-image: url(survivor-gif/jake.gif);
+  background-image: url(./assets/survivor-gif/jake.gif);
   background-size: cover;
   background-position: center;
   background-attachment: local;
@@ -352,7 +352,7 @@ ul li {
 }
 
 #nea-bio {
-  background-image: url(survivor-gif/nea.gif);
+  background-image: url(./assets/survivor-gif/nea.gif);
   background-size: cover;
   background-position: left;
   background-attachment: local;
@@ -361,7 +361,7 @@ ul li {
 }
 
 #laurie-bio {
-  background-image: url(survivor-gif/laurie-strode.gif);
+  background-image: url(./assets/survivor-gif/laurie-strode.gif);
   background-size: cover;
   background-position: center;
   background-attachment: local;
@@ -370,7 +370,7 @@ ul li {
 }
 
 #ace-bio {
-  background-image: url(survivor-gif/ace.gif);
+  background-image: url(./assets/survivor-gif/ace.gif);
   background-size: cover;
   background-position: 50% 0%;;
   background-attachment: local;
@@ -379,7 +379,7 @@ ul li {
 }
 
 #bill-bio {
-  background-image: url(survivor-gif/bill.gif);
+  background-image: url(./assets/survivor-gif/bill.gif);
   background-size: cover;
   background-position: 50% 50%;
   background-attachment: local;
@@ -388,7 +388,7 @@ ul li {
 }
 
 #feng-bio {
-  background-image: url(survivor-gif/feng.gif);
+  background-image: url(./assets/survivor-gif/feng.gif);
   background-size: cover;
   background-position: 50% 50%;
   background-attachment: local;
