@@ -6,8 +6,8 @@ export default defineConfig({
   plugins: [react()],
   base: '/Dead-By-Daylight2.0/',
   server: {
-  open: true 
-}
+    open: true 
+  }
 })
 
 
