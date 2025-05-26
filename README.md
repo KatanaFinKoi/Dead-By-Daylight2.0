@@ -15,17 +15,16 @@ This project is a React-based remake of a static HTML Dead by Daylight fan site,
 ### Key Features
 
 - **Multi-page navigation** - Content separated into dedicated pages for better organization
-- **Responsive design** - Optimized viewing experience across devices
 - **Interactive elements** - Smooth transitions between pages
 - **Rich character bios** - Detailed backstories for all killers and survivors
 - **Deep lore exploration** - Comprehensive information about The Entity and The Trials
 
 ## Tech Stack
 
-- React 18
+- React 19
 - Vite
 - React Router
-- CSS3
+- CSS
 - GitHub Pages (deployment)
 
 ## Pages
